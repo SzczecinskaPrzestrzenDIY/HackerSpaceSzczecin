@@ -5,11 +5,8 @@
 ## Timeline
 
 * [#1 task 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-
 * [#1 task 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-
 * [#1 task 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-
 * [#1 task 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
 
 
@@ -19,9 +16,7 @@
 ## Przestrzeń
 
 * [#1 task 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-
 * [#1 task 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-
 * [#1 task 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
 
 
