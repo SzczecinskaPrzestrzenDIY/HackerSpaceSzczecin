@@ -8,15 +8,15 @@ Jeżeli myślisz, że coś Ciebie dotyczy; Jesteś aktywny Lorem ipsum dolor sit
 
 
 ## Timeline
-***Last update: 23.08.2020
+*Last update: 23.08.2020*
 
-# Tak wygląda nasz kalendarz na najbliższe tygodnie:
+##### Tak wygląda nasz kalendarz na najbliższe tygodnie:
 
 ![image](https://user-images.githubusercontent.com/3337832/90456458-4eb22e00-e0f9-11ea-8a53-aebd082d1b91.png) 
 
-# A na tym aktualnie się skupiamy:
+##### A na tym aktualnie się skupiamy:
 
-    Rekrutacja
+Rekrutacja
     * [#1 Poszukujemy Specjalisty HR](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
     * [#2 Poszukujemy Specjalistów IT](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/2)
     * [#3 Poszukujemy Social Media Ninja](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/3)
