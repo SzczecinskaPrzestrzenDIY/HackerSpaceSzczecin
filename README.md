@@ -6,7 +6,8 @@ Mamy niezmierną przyjemność gościć Was w Hacker Space Szczecin!
 
 Jest to przestrzeń coworkingowa, w której możecie skorzystać z miejsca do pracy, narzędzi, czy specjalistycznych urządzeń, które są tu specjalnie dla Was. Jest też grono opiekunów, którzy pomogą z obsługą maszyn i służą dobrą radą. Są też oczywiście inni zajawkowicze, którzy przyszli tutaj w poszukiwaniu inspiracji, albo brakującego elementu w swoim master planie. Można się spotykać i kombinować w dzień i w nocy, a każdy ma tu świetne pomysły. I napoje są zawsze o odpowiedniej temperaturze.
 
-A nie. W sumie to jeszcze nie... Startujemy od stycznia 2021. Tak czy siak, można się tu w międzyczasie rozejrzeć:) 
+A nie. W sumie to jeszcze nie... Startujemy od stycznia 2021. Tak czy siak, można się tu w międzyczasie trochę rozejrzeć:) 
+
 Poniżej najswieższy update naszych postępów i szczegóły aktualnego etapu prac.
 
 ##### Jeśli masz jakiekolwiek sugestie czy uwagi, to zachęcamy do otwarcia [nowego issue](https://github.com/szczecinskaprzestrzendiy/hackerspaceszczecin/issues/new); chętnie się odniesiemy do sprawy.
