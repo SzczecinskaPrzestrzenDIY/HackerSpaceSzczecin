@@ -1,5 +1,5 @@
 
-# Hello Hacker!
+## Hello Hacker!
 
 Jeżeli myślisz, że coś Ciebie dotyczy; Jesteś aktywny Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia orci sit amet tellus tincidunt, vitae eleifend nisl malesuada. Pellentesque habitant mor
 
@@ -17,16 +17,16 @@ Jeżeli myślisz, że coś Ciebie dotyczy; Jesteś aktywny Lorem ipsum dolor sit
 ##### A na tym aktualnie się skupiamy:
 
 Rekrutacja
+  
+   * [#1 Poszukujemy Specjalisty HR](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)  
+   * [#2 Poszukujemy Specjalistów IT](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/2)  
+   * [#3 Poszukujemy Social Media Ninja](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/3)  
 
-    * [#1 Poszukujemy Specjalisty HR](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-    * [#2 Poszukujemy Specjalistów IT](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/2)
-    * [#3 Poszukujemy Social Media Ninja](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/3)
 
-
-## Space
+## Hello Space
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia orci sit amet tellus tincidunt, vitae eleifend nisl malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin suscipit pellentesque mauris, sit amet placerat nibh. Quisque vitae quam id
-
+ 
 * [#1 lista kategorii 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
 * [#1 karta kategorii 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
 * [#1 lista wyposażenia 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
