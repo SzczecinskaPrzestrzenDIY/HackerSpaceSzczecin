@@ -4,16 +4,16 @@
 Jeżeli myślisz, że coś Ciebie dotyczy; Jesteś aktywny Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia orci sit amet tellus tincidunt, vitae eleifend nisl malesuada. Pellentesque habitant mor
 
 
-##### zawsze możesz otworzyć nowe issue; chętnie się odniesiemy do sprawy
+##### Jeśli masz jakiekolwiek sugestie czy uwagi, to zachęcamy do otwarcia [nowego issue](https://github.com/szczecinskaprzestrzendiy/hackerspaceszczecin/issues/new); chętnie się odniesiemy do sprawy
 
 
 ## Timeline
 
 Wstęp Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia orci sit amet tellus tincidunt, vitae eleifend nisl malesuada. Pellentesque habitant morbi tristique
 
-* [#1 Poszukujemy xx 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-* [#1 Poszukujemy yy 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-* [#1 Poszukujemy zz 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
+* [#1 Poszukujemy Specjalisty HR](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
+* [#2 Poszukujemy Specjalistów IT](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/2)
+* [#3 Poszukujemy Social Media Ninja](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/3)
 
 ![image](https://user-images.githubusercontent.com/3337832/90456458-4eb22e00-e0f9-11ea-8a53-aebd082d1b91.png) 
 
