@@ -17,6 +17,7 @@ Jeżeli myślisz, że coś Ciebie dotyczy; Jesteś aktywny Lorem ipsum dolor sit
 ##### A na tym aktualnie się skupiamy:
 
 Rekrutacja
+
     * [#1 Poszukujemy Specjalisty HR](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
     * [#2 Poszukujemy Specjalistów IT](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/2)
     * [#3 Poszukujemy Social Media Ninja](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/3)
