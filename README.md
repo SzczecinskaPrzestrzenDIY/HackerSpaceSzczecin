@@ -1,7 +1,7 @@
 
 ## Hello Hacker!
 
-Jeżeli myślisz, że coś Ciebie dotyczy; Jesteś aktywny Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia orci sit amet tellus tincidunt, vitae eleifend nisl malesuada. Pellentesque habitant mor
+Jesteś tutaj nie przez pomyłkę. 
 
 
 ##### Jeśli masz jakiekolwiek sugestie czy uwagi, to zachęcamy do otwarcia [nowego issue](https://github.com/szczecinskaprzestrzendiy/hackerspaceszczecin/issues/new); chętnie się odniesiemy do sprawy.
@@ -21,16 +21,20 @@ Rekrutacja
    * [#1 Poszukujemy Specjalisty HR](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)  
    * [#2 Poszukujemy Specjalistów IT](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/2)  
    * [#3 Poszukujemy Social Media Ninja](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/3)  
+   
+Warsztat Service Design
+  
+  * [Hacker Space Szczecin Do It Ourselves](/fejsik/link)
 
 
-## Hello Space
+## Przestrzeń przestrzeń przestrzeń..
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc lacinia orci sit amet tellus tincidunt, vitae eleifend nisl malesuada. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin suscipit pellentesque mauris, sit amet placerat nibh. Quisque vitae quam id
+Jesteśmy na krótko przed rozpoczęciem prac remontowych i dwoimy się i troimy, żeby było jak należy. Oczywiście nie da się wszystkiego przewidzieć, ale i tak próbujemy. Poniżej są kwestie, które brainstormujemy z każdą nowo poznaną głową, więc jeśli masz swoje pomysły, to śmiało dodaj je w komentarzach:
  
-* [#1 lista kategorii 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-* [#1 karta kategorii 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-* [#1 lista wyposażenia 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-* [#1 warsztat (szczegóły) 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-* [#1 etc 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
-
+* [#1 Lista wyposażenia](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/4)
+* [#2 Elementy przestrzeni](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/5)
+<!---
+* [#3 Lista wyposażenia](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/4)
+* [#4 warsztat (szczegóły) 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
+--->
 ![image](https://user-images.githubusercontent.com/3337832/90456742-03e4e600-e0fa-11ea-8159-f12634eb2a6f.png)
