@@ -4,7 +4,7 @@
 
 Mamy niezmierną przyjemność gościć Was w Hacker Space Szczecin!
 
-Jest to przestrzeń coworkingowa, w której możecie skorzystać z miejsca do pracy, narzędzi, czy specjalistycznych urządzeń, które są tu specjalnie dla Was. Jest też grono opiekunów, którzy pomogą z obsługą maszyn i służą dobrą radą. Są też oczywiście inni zajawkowicze, którzy przyszli tutaj w poszukiwaniu inspiracji, albo brakującego elementu w swoim master planie. Można się spotykać i kombinować w dzień i w nocy, a każdy ma tu świetne pomysły. I napoje są zawsze o odpowiedniej temperaturze.
+Jest to przestrzeń coworkingowa, w której możecie skorzystać z miejsca do pracy, narzędzi, czy specjalistycznych urządzeń, które są tu specjalnie dla Was. Jest też grono opiekunów, którzy pomogą z obsługą maszyn i służą dobrą radą. Są też oczywiście inni zajawkowicze, którzy przyszli tutaj w poszukiwaniu inspiracji, albo brakującego elementu w swoim master planie. Można się spotykać i kombinować w dzień i w nocy, a każdy ma tu świetne pomysły. I napoje są zawsze w odpowiedniej temperaturze.
 
 A nie. W sumie to jeszcze nie... Startujemy od stycznia 2021. Tak czy siak, można się tu w międzyczasie trochę rozejrzeć:) 
 
