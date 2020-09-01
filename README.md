@@ -29,7 +29,7 @@ Rekrutacja
    
 Warsztat Service Design
   
-  * [Hacker Space Szczecin Do It Ourselves](/fejsik/link)
+  * [Hacker Space Szczecin Do It Ourselves](https://www.facebook.com/szczecinska.przestrzen.DIY)
 
 
 ## Przestrzeń przestrzeń przestrzeń..
