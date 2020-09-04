@@ -38,10 +38,7 @@ Jesteśmy na krótko przed rozpoczęciem prac remontowych i dwoimy się i troimy
  
 * [#1 Lista wyposażenia](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/4)
 * [#2 Elementy przestrzeni](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/5)
-<!---
-* [#3 Lista wyposażenia](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/4)
-* [#4 warsztat (szczegóły) 1](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)
---->
+
 ![image](https://user-images.githubusercontent.com/3337832/90456742-03e4e600-e0fa-11ea-8159-f12634eb2a6f.png)
 
 ## Kontakt
