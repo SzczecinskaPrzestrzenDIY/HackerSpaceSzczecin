@@ -21,15 +21,15 @@ A nie. W sumie to jeszcze nie... Startujemy od stycznia 2021. Tak czy siak, moż
 ![image](https://user-images.githubusercontent.com/3337832/90456458-4eb22e00-e0f9-11ea-8a53-aebd082d1b91.png) 
 
 ##### A na tym aktualnie się skupiamy:
-Rekrutacja
+### Rekrutacja
   
    * [#1 Poszukujemy Specjalisty HR](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/1)  
    * [#2 Poszukujemy Pasjonatów IT, IoT i DIY](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/2)  
    * [#3 Poszukujemy Social Media Ninja](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/3)  
    
-Warsztat Service Design
+### Warsztat Service Design
   
-  * [Hacker Space Szczecin Do It Ourselves](https://www.facebook.com/szczecinska.przestrzen.DIY)
+   * [Hacker Space Szczecin Do It Ourselves](https://github.com/SzczecinskaPrzestrzenDIY/HackerSpaceSzczecin/issues/6)
 
 
 ## Przestrzeń przestrzeń przestrzeń..
