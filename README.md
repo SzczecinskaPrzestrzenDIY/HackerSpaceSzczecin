@@ -44,3 +44,4 @@ Jesteśmy na krótko przed rozpoczęciem prac remontowych i dwoimy się i troimy
 ## Kontakt
 
 Najlepiej to [tutaj](https://github.com/szczecinskaprzestrzendiy/hackerspaceszczecin/issues/new):) Jeśli sprawa jest pilna, to email: hacker.space.szczecin@gmail.com
+Zapraszamy też na nasz [kanał Discord](https://discord.gg/7uxQYY).
